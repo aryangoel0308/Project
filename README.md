@@ -1,4 +1,25 @@
-To Do List Application 
+# To Do List Application 
+
+# Project Description 
+The To-Do List Application is a simple and intuitive web-based tool that helps users organize their daily tasks efficiently.
+Users can add, edit, delete, and mark tasks as completed. The app ensures tasks are saved locally in the browser using localStorage.
+
+This project is built with HTML, CSS, and JavaScript, offering a clean and responsive user interface designed for both desktop and mobile devices.
+
+# Key Features 
+1. User-Friendly Interface
+    Clean and intuitive design for easy navigation.
+2. Task Creation and Editing :
+    Simple options to add, edit, and delete tasks.
+3. Priority Levels :
+    Assign priority (low, medium, high) to tasks.
+4. Voice Input :
+    Use voice commands to create and manage tasks.
+5. Due Dates :
+    Set deadlines for tasks.
+6. Login/Signup :
+    Allows the user to have a personalised experience.
+
 # Project set-up:
 1. Clone the Repository
    Tell users how to copy the project to their computer using : 
@@ -28,6 +49,9 @@ To Do List Application
 15.	The user can also delete the particular task from the list by clicking on the delete button.
 16.	After clicking on the back button on the top left corner of the page, the person can view his profile with the previously entered personal details.
 17.	At the same page the user can click on the “My Lists” button to view all the lists created by the user and also there will be progress visible on each list separately.
+
+# Technologies Used : 
+    HTML(hypertext markup language), CSS(cascading style sheets), Java script.
 
 # Project contributors : 
 1. Aryan Goel (https://github.com/aryangoel0308) (Team Leader)
