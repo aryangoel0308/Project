@@ -37,7 +37,7 @@ This project is built with HTML, CSS, and JavaScript, offering a clean and respo
 3.	You can also navigate to the contact us page after clicking on the “contact us” page.
 4.	Further you can click on the “Login” button, it will take you to the login page.
 5.	If not created any account it will ask you to register and create an account.
-6.	Then a personal detail form will appear and fill it and click on save profile. 
+6.	Then a personal detail form willl appear and fill it and click on save profile. 
 7.	All the personal details will be visible to you on the next page.
 8.	Click on the new list button and it will take you to the option page that will ask you to choose whether  you need a personal to-do list or a work to-do list. 
 9.	Further you can enter the name of your list in the above pop up dialogue box asking the same.
